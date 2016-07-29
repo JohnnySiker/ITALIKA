@@ -12,6 +12,26 @@
 		AB2575241D4B04E8008F3980 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2575221D4B04E8008F3980 /* Main.storyboard */; };
 		AB2575261D4B04E8008F3980 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB2575251D4B04E8008F3980 /* Assets.xcassets */; };
 		AB2575291D4B04E8008F3980 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2575271D4B04E8008F3980 /* LaunchScreen.storyboard */; };
+		AB2575381D4B0556008F3980 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575301D4B0556008F3980 /* SettingsController.swift */; };
+		AB2575391D4B0556008F3980 /* FAQController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575311D4B0556008F3980 /* FAQController.swift */; };
+		AB25753A1D4B0556008F3980 /* SiniestroController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575321D4B0556008F3980 /* SiniestroController.swift */; };
+		AB25753B1D4B0556008F3980 /* mCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575331D4B0556008F3980 /* mCell.swift */; };
+		AB25753C1D4B0556008F3980 /* FoldingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575341D4B0556008F3980 /* FoldingCell.swift */; };
+		AB25753D1D4B0556008F3980 /* MotoCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575351D4B0556008F3980 /* MotoCellTableViewCell.swift */; };
+		AB25753E1D4B0556008F3980 /* MotosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575361D4B0556008F3980 /* MotosController.swift */; };
+		AB25753F1D4B0556008F3980 /* DF.gpx in Resources */ = {isa = PBXBuildFile; fileRef = AB2575371D4B0556008F3980 /* DF.gpx */; };
+		AB2575491D4B0566008F3980 /* PerfilController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575401D4B0566008F3980 /* PerfilController.swift */; };
+		AB25754A1D4B0566008F3980 /* UbicacionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575411D4B0566008F3980 /* UbicacionController.swift */; };
+		AB25754B1D4B0566008F3980 /* italikaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575421D4B0566008F3980 /* italikaController.swift */; };
+		AB25754C1D4B0566008F3980 /* HelpCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575431D4B0566008F3980 /* HelpCell.swift */; };
+		AB25754D1D4B0566008F3980 /* MotoDescriptorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575441D4B0566008F3980 /* MotoDescriptorController.swift */; };
+		AB25754E1D4B0566008F3980 /* AyudaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575451D4B0566008F3980 /* AyudaController.swift */; };
+		AB25754F1D4B0566008F3980 /* TiendaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575461D4B0566008F3980 /* TiendaController.swift */; };
+		AB2575501D4B0566008F3980 /* PromocionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575471D4B0566008F3980 /* PromocionesController.swift */; };
+		AB2575511D4B0566008F3980 /* MapaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575481D4B0566008F3980 /* MapaController.swift */; };
+		AB2575541D4B0585008F3980 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575521D4B0585008F3980 /* MenuController.swift */; };
+		AB2575551D4B0585008F3980 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575531D4B0585008F3980 /* HomeController.swift */; };
+		AB2575571D4B0598008F3980 /* PromoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2575561D4B0598008F3980 /* PromoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,26 @@
 		AB2575251D4B04E8008F3980 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB2575281D4B04E8008F3980 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB25752A1D4B04E8008F3980 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB2575301D4B0556008F3980 /* SettingsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		AB2575311D4B0556008F3980 /* FAQController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FAQController.swift; sourceTree = "<group>"; };
+		AB2575321D4B0556008F3980 /* SiniestroController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiniestroController.swift; sourceTree = "<group>"; };
+		AB2575331D4B0556008F3980 /* mCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mCell.swift; sourceTree = "<group>"; };
+		AB2575341D4B0556008F3980 /* FoldingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoldingCell.swift; sourceTree = "<group>"; };
+		AB2575351D4B0556008F3980 /* MotoCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotoCellTableViewCell.swift; sourceTree = "<group>"; };
+		AB2575361D4B0556008F3980 /* MotosController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotosController.swift; sourceTree = "<group>"; };
+		AB2575371D4B0556008F3980 /* DF.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = DF.gpx; sourceTree = "<group>"; };
+		AB2575401D4B0566008F3980 /* PerfilController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PerfilController.swift; sourceTree = "<group>"; };
+		AB2575411D4B0566008F3980 /* UbicacionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UbicacionController.swift; sourceTree = "<group>"; };
+		AB2575421D4B0566008F3980 /* italikaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = italikaController.swift; sourceTree = "<group>"; };
+		AB2575431D4B0566008F3980 /* HelpCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelpCell.swift; sourceTree = "<group>"; };
+		AB2575441D4B0566008F3980 /* MotoDescriptorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotoDescriptorController.swift; sourceTree = "<group>"; };
+		AB2575451D4B0566008F3980 /* AyudaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AyudaController.swift; sourceTree = "<group>"; };
+		AB2575461D4B0566008F3980 /* TiendaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TiendaController.swift; sourceTree = "<group>"; };
+		AB2575471D4B0566008F3980 /* PromocionesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PromocionesController.swift; sourceTree = "<group>"; };
+		AB2575481D4B0566008F3980 /* MapaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapaController.swift; sourceTree = "<group>"; };
+		AB2575521D4B0585008F3980 /* MenuController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		AB2575531D4B0585008F3980 /* HomeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
+		AB2575561D4B0598008F3980 /* PromoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PromoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +78,14 @@
 		AB2575121D4B04E8008F3980 = {
 			isa = PBXGroup;
 			children = (
+				AB2575301D4B0556008F3980 /* SettingsController.swift */,
+				AB2575311D4B0556008F3980 /* FAQController.swift */,
+				AB2575321D4B0556008F3980 /* SiniestroController.swift */,
+				AB2575331D4B0556008F3980 /* mCell.swift */,
+				AB2575341D4B0556008F3980 /* FoldingCell.swift */,
+				AB2575351D4B0556008F3980 /* MotoCellTableViewCell.swift */,
+				AB2575361D4B0556008F3980 /* MotosController.swift */,
+				AB2575371D4B0556008F3980 /* DF.gpx */,
 				AB25751D1D4B04E8008F3980 /* ITALIKA */,
 				AB25751C1D4B04E8008F3980 /* Products */,
 			);
@@ -54,9 +102,21 @@
 		AB25751D1D4B04E8008F3980 /* ITALIKA */ = {
 			isa = PBXGroup;
 			children = (
+				AB2575401D4B0566008F3980 /* PerfilController.swift */,
+				AB2575411D4B0566008F3980 /* UbicacionController.swift */,
+				AB2575421D4B0566008F3980 /* italikaController.swift */,
+				AB2575431D4B0566008F3980 /* HelpCell.swift */,
+				AB2575441D4B0566008F3980 /* MotoDescriptorController.swift */,
+				AB2575451D4B0566008F3980 /* AyudaController.swift */,
+				AB2575461D4B0566008F3980 /* TiendaController.swift */,
+				AB2575471D4B0566008F3980 /* PromocionesController.swift */,
+				AB2575481D4B0566008F3980 /* MapaController.swift */,
 				AB25751E1D4B04E8008F3980 /* AppDelegate.swift */,
+				AB2575521D4B0585008F3980 /* MenuController.swift */,
+				AB2575531D4B0585008F3980 /* HomeController.swift */,
 				AB2575201D4B04E8008F3980 /* ViewController.swift */,
 				AB2575221D4B04E8008F3980 /* Main.storyboard */,
+				AB2575561D4B0598008F3980 /* PromoView.swift */,
 				AB2575251D4B04E8008F3980 /* Assets.xcassets */,
 				AB2575271D4B04E8008F3980 /* LaunchScreen.storyboard */,
 				AB25752A1D4B04E8008F3980 /* Info.plist */,
@@ -123,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB2575291D4B04E8008F3980 /* LaunchScreen.storyboard in Resources */,
+				AB25753F1D4B0556008F3980 /* DF.gpx in Resources */,
 				AB2575261D4B04E8008F3980 /* Assets.xcassets in Resources */,
 				AB2575241D4B04E8008F3980 /* Main.storyboard in Resources */,
 			);
@@ -135,8 +196,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB2575571D4B0598008F3980 /* PromoView.swift in Sources */,
+				AB25753D1D4B0556008F3980 /* MotoCellTableViewCell.swift in Sources */,
+				AB25754B1D4B0566008F3980 /* italikaController.swift in Sources */,
+				AB2575511D4B0566008F3980 /* MapaController.swift in Sources */,
+				AB25754A1D4B0566008F3980 /* UbicacionController.swift in Sources */,
+				AB2575551D4B0585008F3980 /* HomeController.swift in Sources */,
+				AB2575541D4B0585008F3980 /* MenuController.swift in Sources */,
+				AB2575381D4B0556008F3980 /* SettingsController.swift in Sources */,
+				AB25753C1D4B0556008F3980 /* FoldingCell.swift in Sources */,
+				AB25754C1D4B0566008F3980 /* HelpCell.swift in Sources */,
+				AB2575501D4B0566008F3980 /* PromocionesController.swift in Sources */,
+				AB25753B1D4B0556008F3980 /* mCell.swift in Sources */,
+				AB25754D1D4B0566008F3980 /* MotoDescriptorController.swift in Sources */,
 				AB2575211D4B04E8008F3980 /* ViewController.swift in Sources */,
+				AB25753A1D4B0556008F3980 /* SiniestroController.swift in Sources */,
+				AB25754F1D4B0566008F3980 /* TiendaController.swift in Sources */,
+				AB2575391D4B0556008F3980 /* FAQController.swift in Sources */,
+				AB25753E1D4B0556008F3980 /* MotosController.swift in Sources */,
+				AB25754E1D4B0566008F3980 /* AyudaController.swift in Sources */,
 				AB25751F1D4B04E8008F3980 /* AppDelegate.swift in Sources */,
+				AB2575491D4B0566008F3980 /* PerfilController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
