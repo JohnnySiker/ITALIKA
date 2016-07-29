@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.1):
+    - Alamofire (~> 3.3)
+  - FoldingCell (0.8.7)
+  - Spring (1.0.3)
+  - TKSubmitTransition (0.3)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 2.0)
+  - FoldingCell (~> 0.8.1)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - TKSubmitTransition
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 3ccf3347d9ea24580dc11fb892770a0be6a29826
+  FoldingCell: 95cc3a13a8c020b12a9af6eb3496f4563444149d
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  TKSubmitTransition: 6634e4fb07288db861b66d70fa4c4a7b96d0e6b2
+
+COCOAPODS: 0.39.0
